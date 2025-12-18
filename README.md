@@ -1,9 +1,9 @@
 
 # Reform project
 
-Automation Link: [text](https://app.reformhq.com/automations/69434710459edeea6d973334/edit)
-View Link: [text](https://app.reformhq.com/views/694356c7459edeea6d97aaf0)
-Loom Recording:
+Automation Link: [Automation Link](https://app.reformhq.com/automations/69434710459edeea6d973334/edit)
+View Link: [View Link](https://app.reformhq.com/views/694356c7459edeea6d97aaf0)
+Loom Recording: [Loom Link](https://www.loom.com/share/6181e89473914107af2bcfbc46bb5d2b)
 
 # How to run the automation:
 
@@ -38,7 +38,7 @@ To be honest there weren't any assumptions I needed to make for this project, I 
 # Improvements:
 With more time I would make the following improvements:
 
-Improve the details of this readme/documentation as well as refine the loom recording.
+Improve the details of this readme/documentation as well as refine the loom recording to show how the API recieves the data using ngrok.
 Do additional testing with additional attachment types to explore additional edge cases and test automation robustness.
 
 # Bugs:
